@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Список дел</string>
+    <string name="dueDate">Дата завершения</string>
+    <string name="titleHint">Заголовок</string>
+    <string name="descHint">Описание</string>
+    <string name="invalidTitle">Заполните поле</string>
+</resources>
